@@ -3,7 +3,7 @@ import Image from "next/image";
 
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import { Smartphone, Github, ExternalLink } from "lucide-react";
+import { Smartphone, ExternalLink } from "lucide-react";
 
 const projects = [
   {
