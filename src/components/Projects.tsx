@@ -212,7 +212,7 @@ export function Projects() {
           ))}
         </div>
 
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ delay: 0.8, duration: 0.6 }}
@@ -227,7 +227,7 @@ export function Projects() {
             <Github className="h-5 w-5" />
             View More on GitHub
           </a>
-        </motion.div>
+        </motion.div> */}
       </div>
     </section>
   );

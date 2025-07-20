@@ -135,7 +135,7 @@ export function Blog() {
           className="text-center mt-12"
         >
           <a
-            href="https://medium.com/@jigaradesara"
+            href="https://medium.com/@jigaradesara1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-gray-900 dark:bg-white text-white dark:text-gray-900 hover:bg-gray-800 dark:hover:bg-gray-100 px-6 py-3 rounded-lg font-medium transition-colors"

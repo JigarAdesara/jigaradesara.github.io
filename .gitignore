@@ -1,0 +1,57 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Output of 'next build'
+.next/
+out/
+
+# Production environment variables
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+turbo.log
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Optional build cache
+.cache/
+.next/cache/
+
+# Testing
+coverage/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional if using Tailwind CSS JIT
+tailwind.config.js
+
+# Optional: if you're using vercel CLI
+.vercel/
+
+# Optional: local Firebase emulators
+.firebase/
+
+# Optional: Linux/Mac swap or backup files
+*.swp
+*~
+*.bak
+
+# Optional: TypeScript build output
+dist/
+*.tsbuildinfo
+node_modules/
